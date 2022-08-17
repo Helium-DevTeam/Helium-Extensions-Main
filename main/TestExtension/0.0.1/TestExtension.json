@@ -31,7 +31,7 @@
     },
     "extract_dir": "./TestExtension",
     "dependencies":{
-        "helium": "0.7.7-alpha",
-        "helium_api": "0.0.6-alpha"
+        "helium": ">=0.7.7-alpha",
+        "helium_api": ">=0.0.6-alpha"
     }
 }
