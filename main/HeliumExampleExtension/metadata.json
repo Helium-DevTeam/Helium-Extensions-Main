@@ -1,6 +1,6 @@
 {
-    "name": "Helium API",
-    "description": "Helium API for Helium extension development.",
+    "name": "TestExtension",
+    "description": "A basic extension for extension development",
     "homepage": "https://github.com/Helium-DevTeam/Helium/",
     "uuid": "some uuid",
     "license": {
@@ -10,7 +10,7 @@
     "platform": {
         "windows": {
             "64bit":{
-                "url":"https://github.com/Helium-DevTeam/Helium/releases/download/v0.7.6-alpha/HeliumAPI.dll",
+                "url":"something",
                 "checksum":"something"
             },
             "32bit":{
@@ -32,5 +32,6 @@
     "extract_dir": "./TestExtension",
     "dependencies":{
         "helium": ">=0.7.7-alpha",
+        "helium_api": ">=0.0.6-alpha"
     }
 }
