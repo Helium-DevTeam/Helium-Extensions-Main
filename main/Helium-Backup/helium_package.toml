@@ -1,0 +1,28 @@
+[metadata]
+name = "Helium Backup"
+description = "An official server backup extension for Helium"
+url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+
+[license]
+identifier = "GPL-3.0-or-later"
+url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+
+[download.windows.64]
+url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+checksum = ""
+
+[download.windows.32]
+url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+checksum = ""
+
+[download.linux.64]
+url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+checksum = ""
+
+[download.linux.32]
+url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+checksum = ""
+
+[[dependencies]]
+name = "Helium"
+version = ">=0.8.46.alpha.0"
