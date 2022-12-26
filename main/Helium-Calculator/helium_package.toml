@@ -1,26 +1,26 @@
 [metadata]
-name = "Helium Backup"
-description = "An official server backup extension for Helium"
-url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+name = "Helium Calculator"
+description = "An official calculator extension for Helium"
+url = "https://github.com/Helium-DevTeam/HeliumCalculator/"
 
 [license]
 identifier = "GPL-3.0-or-later"
-url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+url = "https://github.com/Helium-DevTeam/HeliumCalculator/"
 
 [download.windows.64]
-url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+url = "https://github.com/Helium-DevTeam/HeliumCalculator/"
 checksum = ""
 
 [download.windows.32]
-url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+url = "https://github.com/Helium-DevTeam/HeliumCalculator/"
 checksum = ""
 
 [download.linux.64]
-url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+url = "https://github.com/Helium-DevTeam/HeliumCalculator/"
 checksum = ""
 
 [download.linux.32]
-url = "https://github.com/Helium-DevTeam/HeliumBackup/"
+url = "https://github.com/Helium-DevTeam/HeliumCalculator/"
 checksum = ""
 
 [[dependencies]]
