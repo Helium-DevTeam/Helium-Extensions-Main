@@ -1,5 +1,7 @@
 [[package_entry]]
 directory = "Helium-Backup"
+label = ["official", "backup", "extension"]
 
 [[package_entry]]
 directory = "Helium-Calculator"
+label = ["official", "utils", "extension"]
